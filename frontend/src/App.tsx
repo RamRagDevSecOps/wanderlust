@@ -1,4 +1,4 @@
-// Updated homepage layout - v1.1 - Learning CI/CD with Wanderlust
+// Updated test homepage layout - v1.1 - Learning CI/CD with Wanderlust
 // This comment triggers our Jenkins pipeline for demo purposes
 
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
